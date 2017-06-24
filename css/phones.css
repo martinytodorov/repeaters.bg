@@ -1,0 +1,17 @@
+div#map-canvas {
+    margin-top: 0px;
+    height: 400px;
+}
+
+#logo {
+    padding: 5px !important;
+    font-size: 2.7em !important;
+}
+
+.grid-view table.table tr td, .grid-view table.table tr th{
+    font-size: 1.1em !important;
+}
+
+.grid-view table.table tr td.grid-callsign{
+    font-size: 1.3em !important;
+}
